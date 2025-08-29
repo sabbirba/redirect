@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": ".",
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "<REDIRECT_URL>",
+        "type": 301
+      }
+    ]
+  }
+}
